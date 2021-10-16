@@ -63,11 +63,6 @@
             Zonas
           </v-btn>
           <br />
-          <v-btn color="success" block :to="{ name: 'TipoUsuario' }">
-            <v-icon left>fa-users</v-icon>
-            texto
-          </v-btn>
-          <br />
           <v-btn color="success" block :to="{ name: 'About' }">
             <v-icon left>fa-align-left</v-icon>
             About
